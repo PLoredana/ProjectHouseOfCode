@@ -1,0 +1,54 @@
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.csprojAssemblyReference.cache
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\MainWindow.g.cs
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\App.g.cs
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode_MarkupCompile.cache
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode_MarkupCompile.lref
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\ProjectHouseOfCode.exe.config
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\ProjectHouseOfCode.exe
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\ProjectHouseOfCode.pdb
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\MainWindow.baml
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.g.resources
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.Properties.Resources.resources
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.csproj.GenerateResource.cache
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.csproj.CoreCompileInputs.cache
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.exe
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.pdb
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.csproj.App.config
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.csproj.CopyComplete
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\SplashScreen.g.cs
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\SplashScreen.baml
+C:\Users\Loredana\source\repos\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.FormaLogin.resources
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.csproj.App.config
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.csprojAssemblyReference.cache
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\MainWindow.g.cs
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\SplashScreen.g.cs
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\App.g.cs
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode_MarkupCompile.cache
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode_MarkupCompile.lref
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.exe
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.pdb
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\ProjectHouseOfCode.exe.config
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\ProjectHouseOfCode.exe
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\ProjectHouseOfCode.pdb
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\Newtonsoft.Json.dll
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\System.Net.Http.Extensions.dll
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\System.Net.Http.Primitives.dll
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\Newtonsoft.Json.pdb
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\Newtonsoft.Json.xml
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\System.Net.Http.Extensions.xml
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\bin\Debug\System.Net.Http.Primitives.xml
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\MainWindow.baml
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\SplashScreen.baml
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.g.resources
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.FormaLogin.resources
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.Properties.Resources.resources
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.csproj.GenerateResource.cache
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.csproj.CoreCompileInputs.cache
+c:\C#\proiectul meu\ProjectHouseOfCode\ProjectHouseOfCode\obj\Debug\ProjectHouseOfCode.csproj.CopyComplete
